@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659311592885",
+    "project_id": "mobilodev-c4d60",
+    "storage_bucket": "mobilodev-c4d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659311592885:android:7ed0736e6741ad72ce85fc",
+        "android_client_info": {
+          "package_name": "com.example.kelime_oyunu_sau_mobil_odev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFSVzW_C_oepEANNL5MxphNPzaBjhsU1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
